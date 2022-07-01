@@ -33,7 +33,7 @@ function App() {
 
             <div className="navbar-item has-dropdown is-hoverable">
               <a className="navbar-link">
-                More
+                More (example)
               </a>
 
               <div className="navbar-dropdown">
